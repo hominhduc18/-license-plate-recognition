@@ -1,2 +1,2 @@
-# -license-plate-recognition
+# license-plate-recognition
 hello world
